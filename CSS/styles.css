@@ -4,3 +4,21 @@
 .test{
     background-color:red;
 }
+
+body{
+    background-size : 100%, 100%;
+}
+
+#main-form{
+    display:flex;
+    flex-direction:column;
+}
+
+html{
+    color: beige;
+}
+#clock-form{
+    display:flex;
+    flex-direction : row;
+    align-items:flex-end;
+}
